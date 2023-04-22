@@ -562,6 +562,9 @@ header i {
     .videos_items {
         grid-template-columns: repeat(1, 1fr);
     }
+    fa-bars{
+        margin:0px !important;
+    }
     .videos{
         margin-left: 10px !important;
     }
