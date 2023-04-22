@@ -562,7 +562,9 @@ header i {
     .videos_items {
         grid-template-columns: repeat(1, 1fr);
     }
-
+    .videos{
+        margin-left: 10px !important;
+    }
     .fa-youtube{
         display: none !important;
     }
