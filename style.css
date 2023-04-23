@@ -645,11 +645,7 @@ header i {
 }
 
 .text-wrapper {
-<<<<<<< HEAD
     margin: 10px 0;
-=======
-    margin-top: 10px;
->>>>>>> 48962253b940ccb7db0a95ee1268219fdfa09261
     padding-left: 50px;
     cursor: pointer;
     color: #A4A4A4;
