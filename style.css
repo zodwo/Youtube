@@ -562,8 +562,8 @@ header i {
     .videos_items {
         grid-template-columns: repeat(1, 1fr);
     }
-    .fa-bars{
-        margin: 5px !important;
+    .header-left i {
+        margin: 5px !important
     }
     .videos{
         margin-left: 10px !important;
@@ -641,6 +641,7 @@ header i {
 }
 
 .text-wrapper {
+    margin-top: 10px;
     padding-left: 50px;
     cursor: pointer;
     color: #A4A4A4;
